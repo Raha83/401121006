@@ -1,5 +1,5 @@
 RewriteEngine on
-RewriteBase /web2/
+RewriteBase /web2/401121006/
 
 
 RewriteRule ^(.*)$ index.php?url=$1 [L,QSA]
