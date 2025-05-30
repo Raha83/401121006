@@ -9,10 +9,10 @@
      <nav>
         <ul>
             <li>
-                <a href="http://localhost/web2/">Home</a>
+                <a href="http://localhost/web2/401121006/">Home</a>
             </li>
             <li>
-                <a href="http://localhost/web2/infs.php">Information</a>
+                <a href="http://localhost/web2/401121006/views/infs.php">Information</a>
             </li>
         </ul>
     </nav>

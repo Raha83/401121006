@@ -15,5 +15,10 @@ class FrontController{
     public static function infs(){
         return view('infs.php');
     }
-
-}
+    public static function head(){
+        return view('head.php');
+    }
+    public static function footer(){
+        return view('footer.php');
+    }
+ }
